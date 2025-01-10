@@ -5,3 +5,5 @@ echo. El curso 3069 es el mejor!
 echo. Mirá mamá: me independicé! :)
 echo. Vuelvo a agregar cambios -> me voy a dev
 echo. estoy programando obstaculos
+echo. Ya progamé los obtáculos.
+echo. Estoy listo para volver a main
